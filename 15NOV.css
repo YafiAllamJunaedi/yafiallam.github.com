@@ -1,0 +1,46 @@
+.main ul li{
+    background-color: red;
+}
+
+td{
+    text-align: justify;
+    
+}
+
+h1{
+    text-align: justify;
+}
+
+body{
+    background-color: pink;
+    color: black;
+    margin: 0 0 0 0px;
+}
+img{
+    border-radius: 5%;
+    margin: 15px;
+    }
+.penu{
+    font-size: 10px;
+}
+span{
+    color: purple;
+}
+
+.navbar ul li a{
+    text-decoration: none;
+    color: white;
+
+}
+
+.navbar ul li{
+    list-style: none;
+    display: inline-block;
+    
+}
+
+.navbar ul{
+    float: right;
+    background-color: #8700a7;
+    padding-right: 150px;
+}
